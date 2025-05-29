@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Jane Doe",
+	"author": "Yasuyoshi Wada",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
