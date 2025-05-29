@@ -6,7 +6,8 @@
 	},
 	"description": "A project that does something awesome",
 	"keywords": [ "freecodecamp", "node.js", "freelancer" ],
-	"license" : "MIT",
+	"license": "MIT",
+	"version": "1.2.0",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
