@@ -5,7 +5,8 @@
 		"express": "^4.14.0"
 	},
 	"description": "A project that does something awesome",
-	"keywords" : ["freecodecamp", "node.js", "freelancer"],
+	"keywords": [ "freecodecamp", "node.js", "freelancer" ],
+	"license" : "MIT",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
